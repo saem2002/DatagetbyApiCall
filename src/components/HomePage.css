@@ -1,0 +1,62 @@
+.updatecard {
+  display: flex;
+
+  width: 95%;
+
+}
+.updatecardHome{
+  display: flex;
+
+  width: 95%;
+  margin-bottom: 5vh;
+  font-weight: bolder;
+}
+
+.Item_details:nth-child(1) {
+  text-align: center;
+  width: 20%;
+}
+
+.Item_details:nth-child(2) {
+  text-align: center;
+  width: 20%;
+}
+
+.Item_details:nth-child(3) {
+  text-align: center;
+  width: 20%;
+}
+
+.Item_details:nth-child(4) {
+  text-align: center;
+  width: 20%;
+}
+
+.Item_details:nth-child(5) {
+  text-align: center;
+  width: 20%;
+}
+
+
+
+
+.Update_card_map {
+  margin: 10vh;
+  min-height: 50vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #f2f2f0;
+}
+
+
+
+
+
+.line_update {
+  width: 100%;
+  height: 0.1vh;
+  background-color: black;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
